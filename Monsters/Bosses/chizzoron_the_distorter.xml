@@ -67,5 +67,6 @@
 		<item id="2155" chance="12000" /><!-- green gem -->
 		<item id="7591" chance="15000" /><!-- great health potion -->
 		<item id="2492" chance="15000" /><!-- dragon scale mail -->
+		<item id="11117" chance="6000" /><!-- crystal boots -->
 	</loot>
 </monster>
